@@ -1,0 +1,6 @@
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_12주차_db2_윈폼_ver2_ver3\윈폼_수업예제_ver2_ver3_2013\ADOForm_oracle_ver2_수업_18\ADOForm\bin\Debug\ADOForm.exe.config
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_12주차_db2_윈폼_ver2_ver3\윈폼_수업예제_ver2_ver3_2013\ADOForm_oracle_ver2_수업_18\ADOForm\obj\Debug\ADOForm.exe
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_12주차_db2_윈폼_ver2_ver3\윈폼_수업예제_ver2_ver3_2013\ADOForm_oracle_ver2_수업_18\ADOForm\obj\Debug\ADOForm.pdb
+F:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_12주차_db2_윈폼_ver2_ver3\윈폼_수업예제_ver2_ver3_2013\ADOForm_oracle_ver3_수업_18\ADOForm\bin\Debug\ADOForm.exe.config
+F:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_12주차_db2_윈폼_ver2_ver3\윈폼_수업예제_ver2_ver3_2013\ADOForm_oracle_ver3_수업_18\ADOForm\obj\Debug\ADOForm.exe
+F:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_12주차_db2_윈폼_ver2_ver3\윈폼_수업예제_ver2_ver3_2013\ADOForm_oracle_ver3_수업_18\ADOForm\obj\Debug\ADOForm.pdb
